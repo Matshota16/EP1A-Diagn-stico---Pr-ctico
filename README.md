@@ -11,18 +11,8 @@ solicitar de los libros:
 * solicitar el titulo del libro.
 * solicitar el nombre del autor.
 * solicitar el año de publicacion.
-* solicitar el apellido materno.
-* solicitar el rfc.
-* solicitar el curp.
-* solicitar el correo electronico.
-* solicitar el numero de telefono.
-* solicitar el area donde se encuentra.
-* se hace ciclo if de los puestos.
-* solicitar el salario semanal del empleado.
-* solicitar el tiempo que lleva trabajando en la empresa.
-* se hace sentencia if de acuerdo a los años que ha trabajado para sacar su isr.
--salida:
 
+-salida:
 
 ~~~~~
 +------------------------------------------------------------------+
