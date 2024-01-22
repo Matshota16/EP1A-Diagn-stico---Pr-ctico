@@ -5,7 +5,7 @@ Desarolla un sistema de gestión de biblioteca. Crea una aplicación Orientada a
 
 ## Etapa 2: Especificaciones
 Entrada:
-      - Estudiantes: Nombre, apellidos, grupo, carrera.
+      -Estudiantes: Nombre, apellidos, grupo, carrera.
       -Asignaturas: calificaciones, nombre de la asignatura
 Proceos:
       - Calcular el promedio de las calificaciones finales
