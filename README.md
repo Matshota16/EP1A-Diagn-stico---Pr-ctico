@@ -1,7 +1,7 @@
 # EP1A-Diagnostico---Practica
 
 ## Etapa 1: Descripcion del problema
-Desarrollar una solución que permita ingresar y almacenar las calificaciones finales de todos los alumnos de un salón de clase. Determinar y mostrar el promedio de las calificaciones finales en un resumen con los datos de los estudiantes.
+Imagina que estás diseñando un sistema de gestión de biblioteca. Crea una aplicación Orientada a Objetos que solucione la gestión de información.
 
 ## Etapa 2: Especificaciones
 Entrada:
