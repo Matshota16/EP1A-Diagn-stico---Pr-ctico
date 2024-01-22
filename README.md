@@ -1,2 +1,2 @@
-# EP1A-Diagn-stico---Pr-ctico
+# EP1A-Diagnostico---Practica
 Diagnostico
