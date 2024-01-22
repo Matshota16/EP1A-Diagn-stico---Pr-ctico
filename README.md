@@ -1,7 +1,7 @@
 # EP1A-Diagnostico---Practica
 
 ## Etapa 1: Descripcion del problema
-Imagina que estás diseñando un sistema de gestión de biblioteca. Crea una aplicación Orientada a Objetos que solucione la gestión de información.
+Desarolla un sistema de gestión de biblioteca. Crea una aplicación Orientada a Objetos que solucione la gestión de información.
 
 ## Etapa 2: Especificaciones
 Entrada:
