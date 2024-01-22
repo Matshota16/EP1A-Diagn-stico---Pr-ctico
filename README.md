@@ -30,7 +30,7 @@ solicitar informacion de los libros:
 ~~~~~~~~
 ## Etapa 3: Diseño de la solucion
 Diagrama de clase
-![](https://github.com/Matshota16/T3A1-Ejercicio-01/blob/main/T3A1.png)
+![](https://github.com/Matshota16/EP1A-Diagn-stico---Pr-ctico/blob/c775c44fcd2a2f2ae872bceb03321aede57fa5e2/diagnostico.jpeg)
 
 ## Etapa 4: Desarollo de la solucion
 Desarollo de la solución 
