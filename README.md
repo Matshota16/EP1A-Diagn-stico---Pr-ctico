@@ -6,11 +6,11 @@ Desarolla un sistema de gestión de biblioteca. Crea una aplicación Orientada a
 ## Etapa 2: Especificaciones
 * entrada-
 
-solicitar los datos del empleado:
-* solicitar la sucursal al que pertenece el empleado.
-* solicitar la cantidad de empleados.
-* solicitar el nombre(s) del empleado.
-* solicitar el apellido paterno.
+solicitar de los libros:
+* solicitar el genero del libro.
+* solicitar el titulo del libro.
+* solicitar el nombre del autor.
+* solicitar el año de publicacion.
 * solicitar el apellido materno.
 * solicitar el rfc.
 * solicitar el curp.
